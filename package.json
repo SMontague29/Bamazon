@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMontague29/bamazon.git"
+  },
+  "author": "Scott Montague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMontague29/bamazon/issues"
+  },
+  "homepage": "https://github.com/SMontague29/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0"
+  },
+  "devDependencies": {}
+}
